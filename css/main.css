@@ -1,0 +1,18 @@
+body{
+	background-color: #9ffcff;
+	border: 1px solid;
+	border color: #808080;
+
+}
+
+article{
+	border: 2px solid;
+	border color: black;
+}
+
+.button{
+	background-color: lime;
+	border: none;
+	text-align: center;
+	padding: 13px 20px;
+}
