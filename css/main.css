@@ -5,7 +5,7 @@ body{
 
 }
 
-article{
+article:first-of-type{
 	border: 2px solid;
 	border color: black;
 }
